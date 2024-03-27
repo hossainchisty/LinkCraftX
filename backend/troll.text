@@ -1,0 +1,11 @@
+    // "@treblle/express": "0.0.7",
+
+    app.use(
+  treblle({
+    apiKey: process.env.TREBLLE_API_KEY,
+    projectId: process.env.TREBLLE_PROJECT_ID,
+    additionalFieldsToMask: [],
+  })
+)
+
+const treblle = require('@treblle/express')
