@@ -27,3 +27,7 @@ uploads/
 .vercel
 TODO.MD
 .vscode
+backend/src/logs/access.log
+logs/winston/email-sender.log
+backend/src/logs/access.log
+backend/src/logs/access.log
