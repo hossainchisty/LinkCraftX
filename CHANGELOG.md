@@ -1,3 +1,12 @@
+# [3.34.0](https://github.com/hossainchisty/LinkCraftX/compare/v3.33.0...v3.34.0) (2024-03-28)
+
+
+### Features
+
+* Convert to nextjs ([fe308d2](https://github.com/hossainchisty/LinkCraftX/commit/fe308d2f1d24f908aefce65803d5b933fe799cb0))
+
+
+
 # [3.33.0](https://github.com/hossainchisty/LinkCraftX/compare/v3.32.0...v3.33.0) (2024-03-28)
 
 
